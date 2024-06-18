@@ -12,24 +12,24 @@
 
 ## Github Repo:
 
-https://github.com/umairansari92/internee.pk
+- https://github.com/umairansari92/internee.pk
 
-https://github.com/umairansari92/Rent-A-Car
+- https://github.com/umairansari92/Rent-A-Car
 
-https://github.com/umairansari92/JS-CodeSmith
+- https://github.com/umairansari92/JS-CodeSmith
 
-https://github.com/umairansari92/Mazik-Global
+- https://github.com/umairansari92/Mazik-Global
 
-https://github.com/umairansari92/teachable-machine
+- https://github.com/umairansari92/teachable-machine
 
 ## Live URL:
 
-https://teachable-machine-silk.vercel.app/
+- https://teachable-machine-silk.vercel.app/
 
-https://internee-pk-chi.vercel.app/
+- https://internee-pk-chi.vercel.app/
 
-https://mazik-global-teal.vercel.app/
+- https://mazik-global-teal.vercel.app/
 
-https://js-code-smith.vercel.app/
+- https://js-code-smith.vercel.app/
 
-https://pakistan-rent-a-car.vercel.app/
+- https://pakistan-rent-a-car.vercel.app/
