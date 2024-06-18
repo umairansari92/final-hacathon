@@ -1,11 +1,11 @@
 ## Linked In:
 
-- Item 1 https://www.linkedin.com/posts/umairansari92_interneepk-webdevelopment-chatbot-activity-7208611107907739649--POg?utm_source=share&utm_medium=member_desktop
-- Item 2 https://www.linkedin.com/posts/umairansari92_javascript-webdevelopment-smit-activity-7208607786807500800-Cwbf?utm_source=share&utm_medium=member_desktop
-- Item 3 https://www.linkedin.com/posts/umairansari92_ai-machinelearning-teachablemachine-activity-7208605937882873856-kPIs?utm_source=share&utm_medium=member_desktop
-- Item 4 https://www.linkedin.com/posts/umairansari92_mazikglobalbot-kommunicate-github-activity-7208604288825102336-dYa1?utm_source=share&utm_medium=member_desktop
-- Item 5 https://www.linkedin.com/posts/umairansari92_cowpurchasingbot-dialogflow-github-activity-7208602288309866496-04f9?utm_source=share&utm_medium=member_desktop
-- Item 6 https://www.linkedin.com/posts/umairansari92_hackathon-smit-webdevelopment-activity-7207684048079462402-1DOJ?utm_source=share&utm_medium=member_desktop
+-  1 https://www.linkedin.com/posts/umairansari92_interneepk-webdevelopment-chatbot-activity-7208611107907739649--POg?utm_source=share&utm_medium=member_desktop
+-  2 https://www.linkedin.com/posts/umairansari92_javascript-webdevelopment-smit-activity-7208607786807500800-Cwbf?utm_source=share&utm_medium=member_desktop
+-  3 https://www.linkedin.com/posts/umairansari92_ai-machinelearning-teachablemachine-activity-7208605937882873856-kPIs?utm_source=share&utm_medium=member_desktop
+-  4 https://www.linkedin.com/posts/umairansari92_mazikglobalbot-kommunicate-github-activity-7208604288825102336-dYa1?utm_source=share&utm_medium=member_desktop
+-  5 https://www.linkedin.com/posts/umairansari92_cowpurchasingbot-dialogflow-github-activity-7208602288309866496-04f9?utm_source=share&utm_medium=member_desktop
+-  6 https://www.linkedin.com/posts/umairansari92_hackathon-smit-webdevelopment-activity-7207684048079462402-1DOJ?utm_source=share&utm_medium=member_desktop
 
 
 
